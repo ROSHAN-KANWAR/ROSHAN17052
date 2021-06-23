@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ROSHAN17052
+- 👋 Hi, I’m ROSHAN KANWAR FROM INDIA
 - 👀 I’m interested in web -developer (react +django)
 - 🌱 I’m currently learning react ads. and django ads.
 - 💞️ I’m looking to collaborate on ...
